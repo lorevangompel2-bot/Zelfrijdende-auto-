@@ -1,3 +1,4 @@
 # Zelfrijdende-auto-
 We maken een zelfrijdende auto. 
-![Zelfrijdende auto](Schermafbeelding%202026-11-09%20172438.png)
+<img width="421" height="284" alt="image" src="https://github.com/user-attachments/assets/70adffa1-c5e8-48d1-86fe-21d36404c4ba" />
+
