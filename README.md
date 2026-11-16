@@ -1,8 +1,7 @@
 # Zelfrijdende-auto-
 We maken een zelfrijdende auto. 
 
-![Uploading Afbeelding (13).jpg…]()
-
+<img width="569" height="588" alt="image" src="https://github.com/user-attachments/assets/f2a7193b-7e90-4c1a-a9d7-8fc00b526260" />
 
 hoe hebben wij het gebouwd: 
  De pinnen van de H-brug hebben we aangesloten op:
