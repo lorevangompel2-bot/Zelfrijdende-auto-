@@ -17,6 +17,7 @@ De auto kan:
    2 seconden achteruit rijden.
 
 De pinnen van de H-brug hebben we aangesloten op:
+  
    int ENA = 5;
 
    int IN1 = 8;
@@ -26,6 +27,8 @@ De pinnen van de H-brug hebben we aangesloten op:
    int IN3 = 10;
    
    int IN4 = 11;
+
+
    
    int ENB = 6;
 
